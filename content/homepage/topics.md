@@ -13,8 +13,8 @@ The hackathon will feature projects on the following broad themes:
 - Parallelisation, optimisation, GPU acceleration for bioinformatic methods.
 - Biological imaging.
 
-We are inviting submissions for project proposals from anyone at a BIOMICS partner institute.
+Project submissions are now closed. Below is a list of the titles and leaders of confirmed projects so far, with the rest to be added soon:
 
-Please submit a brief proposal, including a description of the project, hackathon aims, and required background for participants at this [form](https://docs.google.com/forms/d/e/1FAIpQLScNHnGNJWdx5MqWlUrAcZ7ani03EtO6gENU24PLteFwu2YeVg/viewform?usp=dialog). 
-
-Project submissions will be open until the end of November, 2025. We will select projects by January, 2026.
+- MAGMA: Multiomics-Augmented Gut Microbiome Agent-based model, *Juan Escorcia, EMBL Heidelberg*
+- TailStat, *Jaiganesh Jagadeesh, GIMM*
+- self.dna, *Alessandro Lussana, EMBL-EBI*
