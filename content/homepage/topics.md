@@ -18,3 +18,4 @@ Project submissions are now closed. Below is a list of the titles and leaders of
 - MAGMA: Multiomics-Augmented Gut Microbiome Agent-based model, *Juan Escorcia, EMBL Heidelberg*
 - TailStat, *Jaiganesh Jagadeesh, GIMM*
 - self.dna, *Alessandro Lussana, EMBL-EBI*
+- MGnify Contig Explorer, *Vikas Gupta, EMBL-EBI*
