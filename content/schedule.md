@@ -9,7 +9,7 @@ Day 1 (23rd February)
 |                                     | Time    |
 |-------------------------------------|---------|
 |                                     |         |
-| **Lunch**                           | 12:00am |
+| **Lunch**                           | 12:00pm |
 |                                     |         |
 | Opening talk and group organisation | 1:00pm  |
 | Group work session                  | 1:45pm  |
@@ -18,8 +18,6 @@ Day 1 (23rd February)
 | Group work session                  | 3:45pm  |
 | Day conclusions                     | 5:45pm  |
 | **End of day**                      | 6:00pm  |
-|                                     |         |
-| Dinner                              | 7:00pm  |
 
 
 Day 2 (24th February)
@@ -33,7 +31,7 @@ Day 2 (24th February)
 | **Break**           | 10:15am |
 | Group work session  | 10:40am |
 |                     |         |
-| **Lunch break**     | 12:00am |
+| **Lunch break**     | 12:00pm |
 |                     |         |
 | Group work session  | 1:00pm  |
 | **Break**           | 3:00pm  |
@@ -56,6 +54,6 @@ Day 3 (25th February)
 | **Break**               | 10:40am |
 | Project presentations   | 11:00am |
 |                         |         |
-| **Lunch break**         | 12:00am |
+| **Lunch break**         | 12:00pm |
 |                         |         |
 | **End of hackathon**    | 1:00pm  |
