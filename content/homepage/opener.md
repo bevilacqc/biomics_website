@@ -11,3 +11,4 @@ Key information and dates:
 - Hackathon is open to anyone who is affiliated with one of the partner institutes: EMBL, GIMM, GRC, and ETH Zurich 
 - Funding: Some travel bursaries will be available for project submitters and attendees. See forms for details. 
 - Accommodation: please find details about accommodation [below](#accommodation).
+- Additional **campus and transport information** (especially for those staying on campus or nearby) can be found in [this document](https://docs.google.com/document/d/1BwYcMIpUjza9emJ-96G4DZlP8gL3diIZFkrA-FhyQ1g/edit?usp=sharing).
