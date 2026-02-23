@@ -39,7 +39,7 @@ Day 2 (Tuesday 24th February)
 | Day conclusions     | 4:45pm  |
 | **End of day**      | 5:10pm  |
 |                     |         |
-| **Social activity** | 5:45pm  |
+| **Social activity in Cambridge** | 5:45pm (Meet at front of Thornton Building at 5:20PM for Bus)  |
 | Return to Campus    | 9pm     |
 
 
