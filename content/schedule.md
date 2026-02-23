@@ -51,9 +51,10 @@ Day 3 (Wednesday 25th February)
 |                         |         |
 | Daily check-up          | 9:00am  |
 | Last group work session | 9:15am  |
+| Project presentation 1  | 10:25am |
 | **Break**               | 10:40am |
 | Project presentations   | 11:00am |
 |                         |         |
-| **Lunch**               | 12:00pm |
+| **Lunch**               | 11:45am |
 |                         |         |
 | **End of hackathon**    | 1:00pm  |
