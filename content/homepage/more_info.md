@@ -12,11 +12,11 @@ This hackathon is open to anyone affiliated with one of the BIOMICS institutes. 
 
 
 #### Agenda
-A [provisional schedule]({{< ref "schedule" >}} "schedule") is available.
+The [schedule is available]({{< ref "schedule" >}} "schedule").
 
 Generally, the hackathon will consist of 4-5 sessions of group work, bookended by presentations about the problem being worked on.
 
-We will also plan some social events during the hackathon, including a tour of the Wellcome Genome Campus, and a visit to a countryside inn.
+We will also plan some social events during the hackathon, including a tour of the Wellcome Genome Campus, and a visit to a traditional English pub.
 
 #### Attendance Bursaries
 There is some funding for partial or full attendance bursaries, but we cannot guarantee assistance to all applicants. 

@@ -3,7 +3,7 @@ title: "Schedule"
 date: 2024-10-02T10:48:14+01:00
 ---
 
-Day 1 (23rd February)
+Day 1 (Monday 23rd February)
 ---------------------
 
 |                                     | Time    |
@@ -11,8 +11,8 @@ Day 1 (23rd February)
 |                                     |         |
 | **Lunch**                           | 12:00pm |
 |                                     |         |
-| Opening talk and group organisation | 1:00pm  |
-| Group work session                  | 1:45pm  |
+| Opening and group organisation      | 1:00pm  |
+| Group work session                  | 1:30pm  |
 | Campus tour                         | 2:45pm  |
 | **Break**                           | 3:15pm  |
 | Group work session                  | 3:45pm  |
@@ -20,18 +20,18 @@ Day 1 (23rd February)
 | **End of day**                      | 6:00pm  |
 
 
-Day 2 (24th February)
+Day 2 (Tuesday 24th February)
 ---------------------
 
 |                     | Time    |
 |---------------------|---------|
 |                     |         |
-| Daily check-up      | 8:45am  |
+| Daily check-up      | 9:00am  |
 | Group work session  | 9:15am  |
 | **Break**           | 10:15am |
 | Group work session  | 10:40am |
 |                     |         |
-| **Lunch break**     | 12:00pm |
+| **Lunch**           | 12:00pm |
 |                     |         |
 | Group work session  | 1:00pm  |
 | **Break**           | 3:00pm  |
@@ -43,7 +43,7 @@ Day 2 (24th February)
 | Return to Campus    | 9pm     |
 
 
-Day 3 (25th February)
+Day 3 (Wednesday 25th February)
 ---------------------
 
 |                         | Time    |
@@ -55,6 +55,6 @@ Day 3 (25th February)
 | **Break**               | 10:40am |
 | Project presentations   | 11:00am |
 |                         |         |
-| **Lunch break**         | 11:45am |
+| **Lunch**               | 11:45am |
 |                         |         |
 | **End of hackathon**    | 1:00pm  |
