@@ -1,6 +1,6 @@
 # MGnify JBrowse
 
-[![MGnify JBrowse View](mgnify-1.png)]
+![MGnify JBrowse View](/images/mgnify-1.png)
 
 [MGnify JBrowse](https://github.com/EBI-Metagenomics/mgnify-jbrowse) is a React component library which embeds the JBrowse genome viewer to allow users to view the genome sequence (FASTA), structural annotation, and functional information (GFF).
 
@@ -12,7 +12,7 @@ The viewer supports millions of gene or protein features through efficient data 
 - Improve documentation and configuration options
 - Stretch goal: A complete plug-and-play app where users can drag and drop their own data for visualisation
 
-[![Drag and Drop React App](mgnify-2.png)]
+![Drag and Drop React App](/images/mgnify-2.png)
 
 ##### What we did over the course of the hackathon:
 - Tried new data and identified (and fixed) issues arising
