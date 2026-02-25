@@ -2,6 +2,16 @@
 title: "Details"
 weight: 1
 ---
+Please see the following pages for a summary of the hackathon projects and what was achieved during the course of the hackathon.
+
+- [MAGMA: Multiomics-Augmented Gut Microbiome Agent-based model]({{< ref "magma.md" >}})
+- [TailStat]({{< ref "tailstat.md" >}})
+- [self.dna]({{< ref "selfdna.md" >}})
+- [MGnify Contig Explorer]({{< ref "mgnify.md" >}})
+- [Brillouin hyperspectral images storage, visualisation and analysis]({{< ref "brillouin.md" >}})
+
+
+
 
 Key information and dates:
 - Hackathon dates: 23rd-25th February 2026.
